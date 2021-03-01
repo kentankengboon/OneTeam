@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74462335998",
+    "firebase_url": "https://oneteam-51b5e.firebaseio.com",
+    "project_id": "oneteam-51b5e",
+    "storage_bucket": "oneteam-51b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74462335998:android:2d8c0ef647fa7d251726af",
+        "android_client_info": {
+          "package_name": "com.tankengboon.oneteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74462335998-3nm0q3p72qm01vpoj5u19okoje3vi4cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUwj48_4vGjiMaLUA-1gLu_PQtdd1s7b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74462335998-3nm0q3p72qm01vpoj5u19okoje3vi4cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
